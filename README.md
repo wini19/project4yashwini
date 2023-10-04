@@ -1,5 +1,5 @@
 Project 
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/wini19/project4yashwini/tree/main.svg?style=svg)](https://app.circleci.com/pipelines/circleci/Qy9p7Rh8A2eSKPx45gjp2X/14iUjQrvsPKbujBUGLPnXb)
+[![CircleCI](https://dl.circleci.com/status-badge/img/circleci/Qy9p7Rh8A2eSKPx45gjp2X/14iUjQrvsPKbujBUGLPnXb/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/circleci/Qy9p7Rh8A2eSKPx45gjp2X/14iUjQrvsPKbujBUGLPnXb/tree/main)
 
 ## Project Overview
 
