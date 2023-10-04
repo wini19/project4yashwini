@@ -1,6 +1,6 @@
 Project 
 
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/cci-fuln3/project4yashwini/tree/main.svg?style=svg)](https://app.circleci.com/pipelines/circleci/Qy9p7Rh8A2eSKPx45gjp2X/14iUjQrvsPKbujBUGLPnXb)
+[![cci-fuln3](https://dl.circleci.com/status-badge/img/gh/cci-fuln3/project4yashwini/tree/main.svg?style=svg)](https://app.circleci.com/pipelines/circleci/Qy9p7Rh8A2eSKPx45gjp2X/14iUjQrvsPKbujBUGLPnXb)
 
 ## Project Overview
 
