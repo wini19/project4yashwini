@@ -33,7 +33,9 @@ Run `docker --version` to verify installation.
 * Run `make lint` to validate python code and Dockerfile
 * Install minikube
 Reference: https://minikube.sigs.k8s.io/docs/start/
+
 `curl -LO https://storage.googleapis.com/minikube/releases/latest/minikube-linux-amd64`
+
 `sudo install minikube-linux-amd64 /usr/local/bin/minikube`
 Verify Installation
 `minikube version`
@@ -41,7 +43,9 @@ Verify Installation
 * Install kubectl
 Reference: https://kubernetes.io/docs/tasks/tools/#kubectl
 `curl -LO "https://dl.k8s.io/release/$(curl -L -s https://dl.k8s.io/release/stable.txt)/bin/linux/amd64/kubectl"`
+
 `sudo install -o root -g root -m 0755 kubectl /usr/local/bin/kubectl`
+
 Verify installation
 `kubectl version --client`
 
@@ -57,7 +61,7 @@ Run this command to create flask app in docker conatiner and starting the app:
 `minikube start`
 2. Run the app
 `./run_kubernetes.sh`
-If you get error abotu pod not running, re-run after few minutes when pod is created.
+If you get error about pod not running, re-run after few minutes when pod is created.
 To check pod status: `kubectl get pod`
 
 
